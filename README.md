@@ -6,7 +6,7 @@ Certainly! Below is a README template for your React todo list application, incl
 
 This project is a simple Todo List application built using React. Users can add, edit, mark as completed, and delete todos. Todos are stored in local storage so they persist even if the browser is refreshed.
 
-![Todo List App Preview](path/to/your/screenshot.png) <!-- Replace with an actual screenshot or image of your app -->
+![Todo List App Preview](https://github.com/Xta1neR/To-Do_list/blob/main/projectSS.png) <!-- Replace with an actual screenshot or image of your app -->
 
 ## Features
 
